@@ -2,7 +2,9 @@
 repositório para a matéria de APP 1
 
 
-Atividade- 02/03/2022
+Atividade- 02/03/2022.
+
+*Atividade feita com auxilio João Pedro Bertoletti.
 
 Imagens do emulador, mostrando o resultado para cada um dos Exercicios:
 
